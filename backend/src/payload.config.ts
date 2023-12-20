@@ -17,7 +17,7 @@ export default buildConfig({
   collections: [
     Users,
     {
-      slug: 'pendaftaran_lomba',
+      slug: 'Pendaftaran_Lomba',
       fields: [
         {
           name: 'Nama',
